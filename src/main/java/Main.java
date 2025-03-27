@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //Vetores
+        //Vetores.
 
         int vetor[] = new int[4];
         vetor[0] = 10;
